@@ -37,8 +37,4 @@ The animation is defined in the `style.css` file using the `@keyframes` rule. Th
 - **Change the Animation**: Modify the `@keyframes` rule in `style.css` to create your custom animation.
 - **Modify the Content**: Customize the text displayed in the `h1` and `p` tags in `index.html` to fit your project.
 
-## 🌍 Demo:
-A live demo can be viewed at: _(add demo link if hosted)_
 
----
-We hope you enjoy the smooth animation and persistent user preferences! Happy coding! 🎉
